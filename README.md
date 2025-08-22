@@ -27,7 +27,11 @@ Here are some of the technologies and tools I'm currently exploring:
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexes14&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexes14&layout=compact&theme=radical)
+
 
 ---
 
